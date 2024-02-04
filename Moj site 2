@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Moj Prvi HTML Sajt</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 40px;
+        }
+
+        header, footer {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 10px;
+        }
+
+        main {
+            padding: 20px;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Dobrodošli na Moj Sajt</h1>
+    </header>
+
+    <main>
+        <h2>Osnovne Informacije</h2>
+        <p>Ovo je moj drugi sajt ikada.Nema nista na njemu ali bice u buducnosti;).</p>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 Moj Sajt</p>
+    </footer>
+
+</body>
+</html>
